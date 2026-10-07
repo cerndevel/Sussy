@@ -2,7 +2,7 @@
 
 An Among Us style social deduction game that runs in the browser, with real players, bots that fill empty seats, and a link that can be shared in an X post. All art, characters and sound are original and generated in code (no official assets).
 
-## The 5 files (keep them together in ONE folder)
+## The 5 files 
 
 | File | What it is |
 |---|---|
@@ -19,7 +19,7 @@ An Among Us style social deduction game that runs in the browser, with real play
 3. Run `npm install`, then `npm start`.
 4. Open http://localhost:3000. Open it in a few tabs to see several players in one lobby.
 
-## 2. Put it online (needed for X)
+## 2. Put it online 
 
 Netlify and Vercel will not work: the game needs a server that stays running and accepts WebSockets. Use Railway (easiest), Render, or Fly.io.
 
